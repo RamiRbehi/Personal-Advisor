@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RamiRbehi/Personal-Advisor.git/static/css/main.faa54bab.chunk.css",
+    "main.js": "/RamiRbehi/Personal-Advisor.git/static/js/main.4af9f5bf.chunk.js",
+    "main.js.map": "/RamiRbehi/Personal-Advisor.git/static/js/main.4af9f5bf.chunk.js.map",
+    "runtime-main.js": "/RamiRbehi/Personal-Advisor.git/static/js/runtime-main.537d574e.js",
+    "runtime-main.js.map": "/RamiRbehi/Personal-Advisor.git/static/js/runtime-main.537d574e.js.map",
+    "static/js/2.141ce859.chunk.js": "/RamiRbehi/Personal-Advisor.git/static/js/2.141ce859.chunk.js",
+    "static/js/2.141ce859.chunk.js.map": "/RamiRbehi/Personal-Advisor.git/static/js/2.141ce859.chunk.js.map",
+    "index.html": "/RamiRbehi/Personal-Advisor.git/index.html",
+    "static/css/main.faa54bab.chunk.css.map": "/RamiRbehi/Personal-Advisor.git/static/css/main.faa54bab.chunk.css.map",
+    "static/js/2.141ce859.chunk.js.LICENSE.txt": "/RamiRbehi/Personal-Advisor.git/static/js/2.141ce859.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.537d574e.js",
+    "static/js/2.141ce859.chunk.js",
+    "static/css/main.faa54bab.chunk.css",
+    "static/js/main.4af9f5bf.chunk.js"
+  ]
+}
