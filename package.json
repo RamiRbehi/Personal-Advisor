@@ -1,7 +1,7 @@
 {
   "name": "peronal-advisor",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://ramirbehi.github.io/Personal-Advisor/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
